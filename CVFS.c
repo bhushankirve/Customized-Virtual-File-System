@@ -1,3 +1,8 @@
+/*****************************************/
+/* Author : Bhushan Santosh Kirve      */
+/* Technology : C Programming Language   */
+/*****************************************/
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
